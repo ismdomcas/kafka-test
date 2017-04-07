@@ -3,6 +3,8 @@
 En Ipython Notebook está el código y la solución (abajo) así como una pequeña representación gráfica en Google Maps.
 
 
+
+
 Vehiculo 1 ---> sourceId == 6cd1001db88b9bb71a0f2ba09d766a2a226e1bfaecd8813c8ec7d1e3c8ed8e7f
 
 Rutas de inicion fin
